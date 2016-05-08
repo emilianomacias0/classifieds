@@ -1,0 +1,15 @@
+una ves untalado nodeJS
+elegirimos la carpeta a utilizar en este caso sera ngClassifieds en el escritorio mkdir ngClassifieds
+nos colocamos en la linea de comandos en este directorio
+cd ngClassifieds
+una ves dentro creamos dos folders css y scripts
+mkdir css,mkdir scripts
+ahora instalamos dependencias para angular
+npm install angular
+el cual se instala dentro de la carpeta node_modules
+ahora instalamos herramientas para angular
+npm install angular-material
+npm instal mdi   //podemos instalarambos solo separar los paquetes con espacio
+ahora instalamos el servidor http
+npm intall http-server -g (-g es una forma de instalarlo global)
+iniciamos el servidor con el comando http-server

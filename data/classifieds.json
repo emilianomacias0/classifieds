@@ -1,0 +1,57 @@
+[
+				{
+				"id" : "1",
+				"title": "20 foot equipment trailer",
+				"description":"2013 trailers",
+				"price":6000,
+				"posted":"2015-10-24",
+				"contact":{
+						"name":"John Doe",
+						"phone":"(555)55-5555",
+						"email":"jdoe@mail.com"
+					},
+				"categories":[
+					"vehicles",
+					"Parts and accesories"
+				],
+				"image": "trailer.jpg",
+				"views":220	
+				},
+				{
+				"id" : "2",
+				"title": "Suvburvan",
+				"description":"2015",
+				"price":120000,
+				"posted":"2015-11-14",
+				"contact":{
+						"name":"Maria Cano",
+						"phone":"(555)55-5555",
+						"email":"mc@mail.com"
+					},
+				"categories":[
+					"vehicles",
+					"Parts and accesories"
+				],
+				"image": "suburban.jpg",
+				"views":20	
+				},
+				{
+				"id" : "3",
+				"title": "Lamborghini",
+				"description":"SuperDeportivo de lujo",
+				"price":1600000,
+				"posted":"2016-01-24",
+				"contact":{
+						"name":"Emiliano macias",
+						"phone":"(555)55-5555",
+						"email":"emi@mail.com"
+					},
+				"categories":[
+					"Sports Cars",
+					"Parts and accesories"
+				],
+				"image": "lambo.jpg",
+				"views":500	
+				}
+
+			]
